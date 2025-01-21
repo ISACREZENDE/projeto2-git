@@ -1,2 +1,2 @@
-# projeto2-git
+# projeto2-git Isac Rezende
  Aprendendo usar o Git e o Github
